@@ -1,10 +1,5 @@
 # Welcome to DRTtools.com Community Hub
 
-<p align="center">
-  <a href="./README_zh.md">
-    <img src="https://img.shields.io/badge/Read_in-简体中文-blue.svg" alt="Read in Chinese">
-  </a>
-</p>
 
 <p align="center">
     <img width="1620" alt="DRTtools.com Screenshot" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6">
@@ -19,6 +14,9 @@
   </a>
   <a href="https://github.com/Mycroft2333/DRTtools.com/discussions" target="_blank">
     <img src="https://img.shields.io/badge/Discussions-green?style=for-the-badge&logo=github" alt="Discussions">
+  </a>
+  <a href="./README_zh.md">
+  <img src="https://img.shields.io/badge/Read_in-简体中文-blue.svg" alt="Read in Chinese">
   </a>
 </p>
 

@@ -47,7 +47,7 @@ We primarily use **Issues** and **Discussions** to communicate with you.
 
 **DRTtools** is a powerful open-source toolbox developed by Prof. Francesco CIUCCI's group for calculating the Distribution of Relaxation Times (DRT) from Electrochemical Impedance Spectroscopy (EIS) data.
 
-This web interface is created by **Zilong WANG (@ZilongWANG-ust)** and **Yuhao WANG (@Mycroft2333)** from Prof. Francesco CIUCCI's group (@ciuccislab).
+This web interface is created by **Zilong WANG (@ZilongWANG-ust)** and **Yuhao WANG (@Mycroft2333)** from Prof. Francesco CIUCCI's group.
 
 ### Key Features
 *   **Calculate DRT** using Tikhonov regularization method

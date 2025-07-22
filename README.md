@@ -15,7 +15,7 @@
   <a href="https://github.com/Mycroft2333/DRTtools.com/discussions" target="_blank">
     <img src="https://img.shields.io/badge/Discussions-green?style=for-the-badge&logo=github" alt="Discussions">
   </a>
-  <a href="./README_zh.md">
+  <a href="./README_zh.md" target="_blank">
   <img src="https://img.shields.io/badge/Read_in-简体中文-blue.svg" alt="Read in Chinese">
   </a>
 </p>

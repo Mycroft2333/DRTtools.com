@@ -78,7 +78,7 @@ If you use DRTtools in your work, we would appreciate it if you cite the relevan
 
 #### **For Bayesian credible intervals:**
 > Ciucci, F., & Chen, C. (2015). Analysis of electrochemical impedance spectroscopy data using the distribution of relaxation times: A Bayesian and hierarchical Bayesian approach. *Electrochimica Acta*, 167, 439-454.
-<br>
+> 
 > Effat, M. B., & Ciucci, F. (2017). Bayesian and hierarchical Bayesian based regularization for deconvolving the distribution of relaxation times from electrochemical impedance spectroscopy data. *Electrochimica Acta*, 247, 1117-1129.
 
 #### **For Hilbert Transform computation:**

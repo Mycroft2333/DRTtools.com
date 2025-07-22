@@ -1,6 +1,7 @@
 # 欢迎来到 DRTtools.com 社区中心 | Welcome to DRTtools.com Community Hub
 
-<img width="1920" height="1446" alt="image" src="https://github.com/user-attachments/assets/9cb9e0b1-9a7f-41bf-a393-2e2ac398b228" />
+<img width="1620" height="1388" alt="image" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6" />
+
 
 **[English Follows Chinese]**
 

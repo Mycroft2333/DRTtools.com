@@ -46,7 +46,7 @@
 
 **DRTtools** 是由 **Francesco CIUCCI** 教授课题组开发的、一个功能强大的开源工具箱，用于从电化学阻抗谱 (EIS) 数据中计算弛豫时间分布 (DRT)。
 
-该网站界面由 **Francesco CIUCCI** 教授课题组的 **王梓龙 (Zilong WANG)** 和 **王宇昊 (Yuhao WANG)** 创建。
+该网站界面由 **Francesco CIUCCI** 教授课题组的 **王子龙 (Zilong WANG)** 和 **王宇豪 (Yuhao WANG)** 创建。
 
 ### 主要功能
 *   使用**吉洪诺夫正则化 (Tikhonov regularization)** 方法计算DRT

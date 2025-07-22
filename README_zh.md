@@ -1,16 +1,6 @@
 # 欢迎来到 DRTtools.com 社区中心
 
 <p align="center">
-  <a href="./README.md">
-    <img src="https://img.shields.io/badge/Read_in-English-blue.svg" alt="Switch to English">
-  </a>
-</p>
-
-<p align="center">
-    <img width="1620" alt="DRTtools.com 截图" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6">
-</p>
-
-<p align="center">
   <a href="http://drttools.com" target="_blank">
     <img src="https://img.shields.io/badge/访问网站-DRTtools.com-blue?style=for-the-badge&logo=googlechrome" alt="网站">
   </a>
@@ -20,7 +10,15 @@
   <a href="https://github.com/Mycroft2333/DRTtools.com/discussions" target="_blank">
     <img src="https://img.shields.io/badge/提问与讨论-green?style=for-the-badge&logo=github" alt="提问与讨论">
   </a>
+  <a href="./README.md">
+  <img src="https://img.shields.io/badge/Read_in-English-blue?style=for-the-badge&logo=github" alt="Switch to English">
+  </a>
 </p>
+
+<p align="center">
+    <img width="1620" alt="DRTtools.com 截图" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6">
+</p>
+
 
 这里是 **[DRTtools.com](http://drttools.com)** 的官方社区交流平台。我们创建这个仓库的目的是：
 *   **收集用户反馈**：倾听您的声音，让DRTtools变得更好。

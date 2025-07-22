@@ -1,15 +1,26 @@
-# 欢迎来到 DRTtools.com 社区中心 | Welcome to DRTtools.com Community Hub
+# Welcome to DRTtools.com Community Hub
 
-<img width="1620" height="1388" alt="image" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6" />
+<p align="center">
+  <a href="./README_zh.md">
+    <img src="https://img.shields.io/badge/Read_in-简体中文-blue.svg" alt="Read in Chinese">
+  </a>
+</p>
 
+<p align="center">
+    <img width="1620" alt="DRTtools.com Screenshot" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6">
+</p>
 
-**[English Follows Chinese]**
-
-这里是 **[DRTtools.com](http://drttools.com)** 的官方社区交流平台。我们创建这个仓库的目的是：
-*   **收集用户反馈**：倾听您的声音，让DRTtools变得更好。
-*   **追踪和解决问题**：集中管理Bug报告，提高修复效率。
-*   **讨论新功能**：与用户共同探讨DRTtools的未来发展方向。
-*   **建立一个开放的交流社区**：方便用户之间分享经验、数据和技巧。
+<p align="center">
+  <a href="http://drttools.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-DRTtools.com-blue?style=for-the-badge&logo=googlechrome" alt="Website">
+  </a>
+  <a href="https://github.com/Mycroft2333/DRTtools.com/issues/new/choose" target="_blank">
+    <img src="https://img.shields.io/badge/Report_a_Bug-red?style=for-the-badge&logo=github" alt="Report a Bug">
+  </a>
+  <a href="https://github.com/Mycroft2333/DRTtools.com/discussions" target="_blank">
+    <img src="https://img.shields.io/badge/Discussions-green?style=for-the-badge&logo=github" alt="Discussions">
+  </a>
+</p>
 
 This is the official community hub for **[DRTtools.com](http://drttools.com)**. We created this repository to:
 *   **Collect user feedback** to make DRTtools better.
@@ -19,30 +30,27 @@ This is the official community hub for **[DRTtools.com](http://drttools.com)**. 
 
 ---
 
-## 如何使用本平台 | How to Use This Platform
+## How to Use This Platform
 
-我们主要使用 **Issues** 和 **Discussions** 两个功能与您交流。
 We primarily use **Issues** and **Discussions** to communicate with you.
 
-| 功能 (Feature) | 用途 (Purpose) | 链接 (Link) |
+| Feature | Purpose | Link |
 | :--- | :--- | :--- |
-| 🐛 **Bug 报告 (Bug Report)** | 如果您在使用中发现任何错误、崩溃或与预期不符的结果，请在此提交。<br>_If you encounter any errors, crashes, or unexpected results, please submit them here._ | [➡️ **提交 Bug (Submit Bug)**](https://github.com/Mycroft2333/DRTtools.com/issues/new?assignees=&labels=bug&template=bug_report.md) |
-| ✨ **功能建议 (Feature Request)** | 如果您有任何关于新功能或改进现有功能的想法，请告诉我们。<br>_If you have ideas for new features or improvements, please let us know._ | [➡️ **提出建议 (Request Feature)**](https://github.com/Mycroft2333/DRTtools.com/issues/new?assignees=&labels=enhancement&template=feature_request.md) |
-| 💬 **提问与讨论 (Q&A / Discussion)** | 任何一般性问题、使用技巧分享、结果讨论、数据格式疑问等，都可以在这里发起。<br>_For general questions, sharing tips, discussing results, or asking about data formats, this is the place._ | [➡️ **进入讨论区 (Go to Discussions)**](https://github.com/Mycroft2333/DRTtools.com/discussions) |
+| 🐛 **Bug Report** | If you encounter any errors, crashes, or unexpected results, please submit them here. | [➡️ **Submit Bug**](https://github.com/Mycroft2333/DRTtools.com/issues/new?assignees=&labels=bug&template=bug_report.md) |
+| ✨ **Feature Request** | If you have ideas for new features or improvements, please let us know. | [➡️ **Request Feature**](https://github.com/Mycroft2333/DRTtools.com/issues/new?assignees=&labels=enhancement&template=feature_request.md) |
+| 💬 **Q&A / Discussion** | For general questions, sharing tips, discussing results, or asking about data formats, this is the place. | [➡️ **Go to Discussions**](https://github.com/Mycroft2333/DRTtools.com/discussions) |
 
-> **提示 (Tip)**：为了让我们能更快地理解和解决您的问题，提交Bug时请尽量提供详细信息，例如：您的输入数据（可脱敏）、操作步骤、以及出现的错误提示。
-> 
-> _To help us understand and resolve your issue faster, please provide detailed information when submitting a bug, such as your input data (anonymized if necessary), the steps to reproduce, and any error messages._
+> **Tip**: To help us understand and resolve your issue faster, please provide detailed information when submitting a bug, such as your input data (anonymized if necessary), the steps to reproduce, and any error messages.
 
 ---
 
-## 关于 DRTtools | About DRTtools
+## About DRTtools
 
 **DRTtools** is a powerful open-source toolbox developed by Prof. Francesco CIUCCI's group for calculating the Distribution of Relaxation Times (DRT) from Electrochemical Impedance Spectroscopy (EIS) data.
 
 This web interface is created by **Zilong WANG** and **Yuhao WANG** from Prof. Francesco CIUCCI's group.
 
-### 主要功能 | Key Features
+### Key Features
 *   **Calculate DRT** using Tikhonov regularization method
 *   **Flexible regularization parameter** input
 *   **Optimize regularization parameter** selection
@@ -50,17 +58,15 @@ This web interface is created by **Zilong WANG** and **Yuhao WANG** from Prof. F
 *   Fast **DRT peak fitting**
 *   **Visualized** EIS data and DRT analysis results
 
-### 输入文件格式 | Input File Format
-Incorrect input file format will cause DRT fail to return results. Please check the input file prompt on the website for the correct format. 如果您不确定文件格式，可以在[**讨论区 (Discussions)**](https://github.com/Mycroft2333/DRTtools.com/discussions)提问。
-<br>
-_If you are unsure about the file format, feel free to ask in the [**Discussions**](https://github.com/Mycroft2333/DRTtools.com/discussions) section._
+### Input File Format
+Incorrect input file format will cause DRT fail to return results. Please check the input file prompt on the website for the correct format. If you are unsure about the file format, feel free to ask in the [**Discussions**](https://github.com/Mycroft2333/DRTtools.com/discussions) section.
 
-### 理论背景 | Theoretical Background
+### Theoretical Background
 DRT analysis is a powerful technique for interpreting EIS data without assuming an equivalent circuit model. It deconvolutes the impedance response into a distribution of time constants, providing insights into the electrochemical processes occurring at different timescales.
 
 ---
 
-## 学术引用 | Citations
+## Citations
 
 If you use DRTtools in your work, we would appreciate it if you cite the relevant papers.
 
@@ -80,26 +86,21 @@ If you use DRTtools in your work, we would appreciate it if you cite the relevan
 
 ---
 
-## 合作与联系 | Collaboration & Contact
+## Collaboration & Contact
 
-*   **商务合作 (For business cooperation)**, please send an email to: `francesco.ciucci AT uni-bayreuth.de`.
-*   **学术合作 (For academic cooperation)**, please send an email to:
+*   **For business cooperation**, please send an email to: `francesco.ciucci AT uni-bayreuth.de`.
+*   **For academic cooperation**, please send an email to:
     *   `francesco.ciucci AT uni-bayreuth.de`
-    *   `yuhao.wang AT connect.ust.hk` (燃料电池领域 | for fuel cell field)
-    *   `zl.wang AT connect.ust.hk` (电池领域 | for battery field)
+    *   `yuhao.wang AT connect.ust.hk` (for fuel cell field)
+    *   `zl.wang AT connect.ust.hk` (for battery field)
 
 ---
 
-## 数据隐私 | Data Privacy
-
-为了改进我们的服务和优化算法，我们会收集以下信息：
-*   基本的访客信息 (IP, 浏览器版本)
-*   上传的EIS数据 (会定期清理)
-*   DRT拟合结果 (用于算法优化)
-所有数据仅用于服务改进和学术研究目的。我们承诺保护您的数据隐私。
+## Data Privacy
 
 To improve our service and optimize algorithms, we collect:
 *   Basic visitor information (IP, browser version)
 *   Uploaded EIS data (periodically cleaned)
 *   DRT fitting results (for algorithm optimization)
+
 All data is used solely for service improvement and research purposes. We are committed to protecting your data privacy.

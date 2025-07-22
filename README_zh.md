@@ -78,7 +78,7 @@ DRT分析是一种强大的EIS数据解析技术，它无需假设等效电路�
 
 #### **关于贝叶斯置信区间:**
 > Ciucci, F., & Chen, C. (2015). Analysis of electrochemical impedance spectroscopy data using the distribution of relaxation times: A Bayesian and hierarchical Bayesian approach. *Electrochimica Acta*, 167, 439-454.
-<br>
+> 
 > Effat, M. B., & Ciucci, F. (2017). Bayesian and hierarchical Bayesian based regularization for deconvolving the distribution of relaxation times from electrochemical impedance spectroscopy data. *Electrochimica Acta*, 247, 1117-1129.
 
 #### **关于希尔伯特变换计算:**

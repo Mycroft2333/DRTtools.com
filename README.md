@@ -17,7 +17,8 @@
 </p>
 
 <p align="center">
-    <img width="1620" alt="DRTtools.com Screenshot" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6">
+    <img width="1920" height="1398" alt="image" src="https://github.com/user-attachments/assets/5092a595-2ba6-4750-a309-aa5a38410c98" />
+
 </p>
 
 
@@ -70,6 +71,8 @@ DRT analysis is a powerful technique for interpreting EIS data without assuming 
 If you use DRTtools in your work, we would appreciate it if you cite the relevant papers.
 
 #### **For general use of DRTtools:**
+> [**Wang, Z., Wang, Y., Py, B., Maradesa, A., Liu, J., Wan, T. H., Saccoccio, M., & Ciucci, F. (2025). DRTtools: Freely Accessible Distribution of Relaxation Times Analysis for Electrochemical Impedance Spectroscopy. _ACS Electrochemistry_.**](https://doi.org/10.1021/acselectrochem.5c00334)
+>
 > Wan, T. H., Saccoccio, M., Chen, C., & Ciucci, F. (2015). Influence of the discretization methods on the distribution of relaxation times deconvolution: implementing radial basis functions with DRTtools. *Electrochimica Acta*, 184, 483-499.
 
 #### **For regularization parameter selection:**

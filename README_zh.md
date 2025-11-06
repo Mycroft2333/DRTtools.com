@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img width="1620" alt="DRTtools.com 截图" src="https://github.com/user-attachments/assets/42089fe7-d121-400d-a7f8-065505513fc6">
+    <img width="1620" alt="DRTtools.com 截图" src="https://github.com/user-attachments/assets/5092a595-2ba6-4750-a309-aa5a38410c98">
 </p>
 
 
@@ -46,7 +46,7 @@
 
 **DRTtools** 是由 **Francesco CIUCCI** 教授课题组开发的、一个功能强大的开源工具箱，用于从电化学阻抗谱 (EIS) 数据中计算弛豫时间分布 (DRT)。
 
-该网站界面由 **Francesco CIUCCI** 教授课题组的 **王子龙 (Zilong WANG)** 和 **王宇豪 (Yuhao WANG)** 创建。
+该网站界面由 **Francesco CIUCCI** 教授课题组的 **王子龙博士 (Zilong WANG)** 和 **王宇豪博士 (Yuhao WANG)** 创建。
 
 ### 主要功能
 *   使用**吉洪诺夫正则化 (Tikhonov regularization)** 方法计算DRT
@@ -69,6 +69,8 @@ DRT分析是一种强大的EIS数据解析技术，它无需假设等效电路�
 如果您在您的工作中使用 DRTtools，我们非常感谢您引用以下相关论文。
 
 #### **常规使用 DRTtools:**
+> [**Wang, Z., Wang, Y., Py, B., Maradesa, A., Liu, J., Wan, T. H., Saccoccio, M., & Ciucci, F. (2025). DRTtools: Freely Accessible Distribution of Relaxation Times Analysis for Electrochemical Impedance Spectroscopy. _ACS Electrochemistry_.**](https://doi.org/10.1021/acselectrochem.5c00334)
+>
 > Wan, T. H., Saccoccio, M., Chen, C., & Ciucci, F. (2015). Influence of the discretization methods on the distribution of relaxation times deconvolution: implementing radial basis functions with DRTtools. *Electrochimica Acta*, 184, 483-499.
 
 #### **关于正则化参数选择:**
